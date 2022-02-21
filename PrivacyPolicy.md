@@ -1,4 +1,4 @@
-# Privacy Policy
+# Idolcord Privacy Policy
 
 The use of **Idolcord** in a server requires collecting Discord User data such as Discord ID, Username, and Avatar. The use of Idolcord is considered as an agreement to the terms of this Policy.
 
