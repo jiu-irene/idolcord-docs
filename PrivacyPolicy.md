@@ -9,7 +9,7 @@ Data is stored in a MongoDB database hosted by MongoDB Atlas, using their securi
 
 ## User Rights
 
-At any time, users have the right to view data that Idolcord stores related to their Discord account by making a request to the Bot developers at the Idolcord Support Server (see in the Idolcord help page).
+At any time, users have the right to view data that Idolcord stores related to their Discord account by making a request to the Bot developers at the Idolcord Support Server (see in the Idolcord help page). Users also have the right to request for their data to be removed from our Database.
 
 ## Underage Users
 
